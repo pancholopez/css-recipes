@@ -1,0 +1,13 @@
+header,
+nav,
+main,
+aside,
+footer {
+  color: white;
+  background-color: blue;
+  border: 1px solid silver;
+}
+
+body {
+  display: grid;
+}
